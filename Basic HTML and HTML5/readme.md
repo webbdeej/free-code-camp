@@ -17,3 +17,7 @@ Replacef original para text with longer placeholder text
 # Comment out HTML
 
 Commented out h1 and p tags, but not h2
+
+# Delete HTML Elements
+
+Deleted H1 tag
