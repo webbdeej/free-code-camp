@@ -5,3 +5,11 @@ Changed h1 tag from 'Hello' to 'Hello World'
 # Headline with the h2 Element
 
 Added h2 element with the word(s) "CatPhotoApp"
+
+# Inform with the Paragraph Element
+
+Added opening and closing p tags with words "Hello Paragraph"
+
+# Fill in the Blank with Placeholder Text
+
+Replacef original para text with longer placeholder text
