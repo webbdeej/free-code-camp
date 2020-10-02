@@ -29,3 +29,7 @@ Added second para and placed both paras in main tag
 # Add Images to Your Website
 
 Added image of a cat
+
+# Link to External Pages with Anchor Elements
+
+Added a link to a free cat photo app
