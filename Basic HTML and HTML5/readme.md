@@ -13,3 +13,7 @@ Added opening and closing p tags with words "Hello Paragraph"
 # Fill in the Blank with Placeholder Text
 
 Replacef original para text with longer placeholder text
+
+# Comment out HTML
+
+Commented out h1 and p tags, but not h2
