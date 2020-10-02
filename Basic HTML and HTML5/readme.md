@@ -32,4 +32,8 @@ Added image of a cat
 
 # Link to External Pages with Anchor Elements
 
-Added a link to a free cat photo app
+Added a link to a free cat photo app with a tag
+
+# Link to Internal Sections of a Page with Anchor Elements
+
+assigned href attribute to # symbol to change external link to internal
