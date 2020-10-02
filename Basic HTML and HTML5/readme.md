@@ -25,3 +25,7 @@ Deleted H1 tag
 # Introduction to HTML5 Elements
 
 Added second para and placed both paras in main tag 
+
+# Add Images to Your Website
+
+Added image of a cat
