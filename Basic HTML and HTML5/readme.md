@@ -21,3 +21,7 @@ Commented out h1 and p tags, but not h2
 # Delete HTML Elements
 
 Deleted H1 tag
+
+# Introduction to HTML5 Elements
+
+Added second para and placed both paras in main tag 
