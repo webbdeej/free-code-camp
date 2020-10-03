@@ -41,3 +41,7 @@ assigned href attribute to # symbol to change external link to internal
 # Nest an Anchor Element within a Paragraph
 
 Put anchor text inside paragraph tag and added 'View more' before link 
+
+# Make Dead Links Using the Hash Symbol
+
+Replaced link url with '#' to create dead link
