@@ -37,3 +37,7 @@ Added a link to a free cat photo app with a tag
 # Link to Internal Sections of a Page with Anchor Elements
 
 assigned href attribute to # symbol to change external link to internal
+
+# Nest an Anchor Element within a Paragraph
+
+Put anchor text inside paragraph tag and added 'View more' before link 
