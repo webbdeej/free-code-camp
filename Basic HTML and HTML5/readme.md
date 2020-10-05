@@ -45,3 +45,7 @@ Put anchor text inside paragraph tag and added 'View more' before link
 # Make Dead Links Using the Hash Symbol
 
 Replaced link url with '#' to create dead link
+
+# Turn an Image into a Link
+
+Placed existing image inside a tag to make image clickable
