@@ -60,4 +60,8 @@ Added a numbered list of 3 things cats hate
 
 # Create a Text Field
 
-Added input element at bottom of page with placeholder
+Added input element at bottom of page 
+
+# Create a Form Element
+
+Added placeholder text
