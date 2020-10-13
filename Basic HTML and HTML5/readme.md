@@ -77,3 +77,6 @@ Made input a required field
 
 # Create a Set of Radio Buttons
 Created 2 radio buttons and nested inside label element. Gave one label of 'indoor' and the other 'outdoor'
+
+# Create a Set of Checkboxes
+Added 3 checkboxes with name of "personality". All nested in label attr.
