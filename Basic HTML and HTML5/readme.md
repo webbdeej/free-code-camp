@@ -71,3 +71,6 @@ Nested input inside a form element
 
 # Add a Submit Button to a Form
 Added button inside form element
+
+# Use HTML5 to Require a Field
+Made input a required field
