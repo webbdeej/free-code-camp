@@ -74,3 +74,6 @@ Added button inside form element
 
 # Use HTML5 to Require a Field
 Made input a required field
+
+# Create a Set of Radio Buttons
+Created 2 radio buttons and nested inside label element. Gave one label of 'indoor' and the other 'outdoor'
