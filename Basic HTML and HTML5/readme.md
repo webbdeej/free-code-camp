@@ -83,3 +83,6 @@ Added 3 checkboxes with name of "personality". All nested in label attr.
 
 # Use the value attribute with Radio Buttons and Checkboxes
 Added value to each radio button and check box using relevant label ID
+
+# Check Radio Buttons and Checkboxes by Default
+Added checked attr. to first radio box and first checkbox
