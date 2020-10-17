@@ -80,3 +80,6 @@ Created 2 radio buttons and nested inside label element. Gave one label of 'indo
 
 # Create a Set of Checkboxes
 Added 3 checkboxes with name of "personality". All nested in label attr.
+
+# Use the value attribute with Radio Buttons and Checkboxes
+Added value to each radio button and check box using relevant label ID
