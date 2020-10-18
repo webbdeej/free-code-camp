@@ -89,3 +89,6 @@ Added checked attr. to first radio box and first checkbox
 
 # Nest Many Elements within a Single div Element
 Nested ul and ol in a single div
+
+# Declare the Doctype of an HTML Document
+Declared !DOCTYPE html and added h1 heading within html opening/closing tags
