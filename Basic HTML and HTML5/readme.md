@@ -92,3 +92,6 @@ Nested ul and ol in a single div
 
 # Declare the Doctype of an HTML Document
 Declared !DOCTYPE html and added h1 heading within html opening/closing tags
+
+# Define the Head and Body of an HTML Document
+Added head and body tags to html
